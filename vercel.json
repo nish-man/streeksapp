@@ -1,9 +1,5 @@
 {
-  "buildCommand": "npx next build",
-  "devCommand": "npx next dev",
-  "installCommand": "pnpm install",
   "framework": "nextjs",
-  "outputDirectory": ".next",
   "env": {
     "NEXT_PUBLIC_SUPABASE_URL": "https://cuuxtzzwbxazftcyjqol.supabase.co",
     "NEXT_PUBLIC_SUPABASE_ANON_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImN1dXh0enp3YnhhemZ0Y3lqcW9sIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDM1MzQ5MDUsImV4cCI6MjA1OTExMDkwNX0.Eo5ULqDxmFdqX84nVobtlsXhrEztAMBnD20ZVAYPCkw",

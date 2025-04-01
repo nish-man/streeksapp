@@ -1,4 +1,3 @@
 legacy-peer-deps=true
 auto-install-peers=true
-node-linker=hoisted
-use-node-version=18.x 
+node-linker=hoisted 
